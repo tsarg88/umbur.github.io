@@ -1,3 +1,7 @@
+Hello! My name is Tigran,
+This git repository is dedicated for creating my portfolio site.
+
+------------------------------------------------------------------------------------------------------------------------------------------
 Astral by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
