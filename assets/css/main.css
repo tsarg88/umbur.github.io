@@ -33,6 +33,24 @@ body {
 	line-height: 1;
 }
 
+.custom1{
+	border: 1px solid #e3ae9c;
+    border-radius: 9px;
+}
+
+#crimePic{
+	margin-top: -31px;
+}
+.custom2{
+	border: 1px solid #e3ae9c;
+	border-radius: 9px;
+	margin-top: 3px;
+}
+
+#quizzerPic{
+	margin-top: -31px;
+}
+
 ol, ul {
 	list-style: none;
 }
