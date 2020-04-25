@@ -2096,11 +2096,11 @@ input, select, textarea {
 						margin-bottom: 0;
 					}
 
-					#main > .panel.intro header p {
+					/* #main > .panel.intro header p {
 						letter-spacing: -0.015em;
 						font-size: 1.25em;
 						margin: 0.25em 0 0 0;
-					}
+					} */
 
 				@media screen and (max-width: 980px) {
 
@@ -2189,4 +2189,11 @@ input, select, textarea {
 				margin-left: 0.5em;
 			}
 
+		}
+		.skills {
+			color: black;
+		}
+		.role {
+			font-weight: bold;
+			color: blue;
 		}
