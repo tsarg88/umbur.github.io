@@ -2190,10 +2190,10 @@ input, select, textarea {
 			}
 
 		}
-		.skills {
+		#skills {
 			color: black;
 		}
-		.role {
+		#role {
 			font-weight: bold;
 			color: blue;
 		}
