@@ -54,6 +54,13 @@ body {
 ol, ul {
 	list-style: none;
 }
+#skills {
+	color: black;
+}
+#role {
+	font-weight: bold;
+	color: blue;
+}
 
 blockquote, q {
 	quotes: none;
@@ -2190,10 +2197,4 @@ input, select, textarea {
 			}
 
 		}
-		#skills {
-			color: black;
-		}
-		#role {
-			font-weight: bold;
-			color: blue;
-		}
+	
