@@ -34,7 +34,7 @@ body {
 }
 
 .custom1{
-	border: 1px solid #e3ae9c;
+	border: 1px solid #3518b9;
     border-radius: 9px;
 }
 
@@ -42,9 +42,18 @@ body {
 	margin-top: -31px;
 }
 .custom2{
-	border: 1px solid #e3ae9c;
+	border: 1px solid #3518b9;
 	border-radius: 9px;
-	margin-top: 3px;
+}
+
+.custom3{
+	border: 1px solid #3518b9;
+	border-radius: 9px;
+}
+
+.custom4{
+	border: 1px solid #3518b9;
+	border-radius: 9px;
 }
 
 #quizzerPic{
