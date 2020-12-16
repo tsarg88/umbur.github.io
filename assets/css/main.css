@@ -56,6 +56,11 @@ body {
 	border-radius: 9px;
 }
 
+.custom5{
+	border: 1px solid #3518b9;
+	border-radius: 9px;
+}
+
 #quizzerPic{
 	margin-top: -31px;
 }
