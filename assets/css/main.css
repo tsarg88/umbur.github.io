@@ -33,7 +33,7 @@ body {
 	line-height: 1;
 }
 
-.custom1{
+.borderStyle{
 	border: 1px solid #3518b9;
     border-radius: 9px;
 }
@@ -41,25 +41,7 @@ body {
 #crimePic{
 	margin-top: -31px;
 }
-.custom2{
-	border: 1px solid #3518b9;
-	border-radius: 9px;
-}
 
-.custom3{
-	border: 1px solid #3518b9;
-	border-radius: 9px;
-}
-
-.custom4{
-	border: 1px solid #3518b9;
-	border-radius: 9px;
-}
-
-.custom5{
-	border: 1px solid #3518b9;
-	border-radius: 9px;
-}
 
 #quizzerPic{
 	margin-top: -31px;
