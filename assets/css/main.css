@@ -121,6 +121,32 @@ body {
   }
 }
 
+@media (max-width: 460px) {
+  /* All your CSS styles for screens 460px wide or less go here */
+
+  /* Example: */
+  #borderStyleF {
+    word-wrap: break-word;
+    width: 365px;
+    margin-top: 10px;
+    /* margin-bottom: 10px; */
+    border: 1px solid #3518b9;
+    border-radius: 41px;
+    border-bottom-right-radius: 5px;
+    /* border-bottom: 10px; */
+  }
+}
+
+#borderStyleF {
+  margin-top: 10px;
+  /* margin-bottom: 10px; */
+  border: 1px solid #3518b9;
+  border-radius: 41px;
+  border-bottom-right-radius: 5px;
+  /* border-bottom: 10px; */
+}
+
+
 .borderStyle {
   margin-top: 10px;
   /* margin-bottom: 10px; */
